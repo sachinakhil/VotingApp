@@ -1,8 +1,8 @@
 
-<h1 align="center"> RealTimeVotes-backend </h1>
+<h1 align="center"> Backend </h1>
 
 <p align="center">
-A back-end service for <a href="https://github.com/alekelbar/RealTimeVotes"> RealTimeVotes </a> App
+A back-end service for <a href="> RealTimeVotes </a> App
 </p>
 
 ## Run Locally
@@ -10,13 +10,13 @@ A back-end service for <a href="https://github.com/alekelbar/RealTimeVotes"> Rea
 Clone the project
 
 ```bash
-  git clone https://github.com/alekelbar/RealTimeVotes-backend
+  git clone https://github.com/sachinakhil/Backend
 ```
 
 Go to the project directory
 
 ```bash
-  cd RealTimeVotes-backend
+  cd Backend
 ```
 
 Install dependencies
